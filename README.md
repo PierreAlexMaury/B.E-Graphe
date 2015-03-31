@@ -1,6 +1,6 @@
 # B.E-Graphe 
 
-Projet réalisé à l'INSA en binôme dans le cadre de ma formation en Java. Nous étions encadrés par Didier LeBotlan.
+Projet réalisé à l'INSA de Toulouse en binôme dans le cadre de ma formation en Java. Nous étions encadrés par Didier LeBotlan.
 
 Travaux en Java sur la théorie des graphes appliquée aux trajets automobiles et covoiturage
 	- Développement réalisé en Java
